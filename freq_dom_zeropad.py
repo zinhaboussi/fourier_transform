@@ -1,3 +1,4 @@
+#this code showcases how zero-padding in the frequency domain leads to a reconstructed time-domain signal that is essentially a sinc-interpolated version of the original signal.
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.fftpack import fft,ifft
