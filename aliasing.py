@@ -47,4 +47,4 @@ plt.xlim([0,20])
 plt.title('Frequency domain of "analog" signal')
 plt.show()
 
-#the results will show the our analog signal it operating at freq of 5 and our measured signal is operating at half the nyquist freq witch mean 3hz, so here there will aliasing 
+#the results will show the our analog signal is operating at freq of 5 and our measured signal is operating at half the nyquist freq witch means 3hz, so here there will be aliasing 
